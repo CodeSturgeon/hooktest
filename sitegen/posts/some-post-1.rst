@@ -6,4 +6,4 @@
 .. description: 
 .. type: text
 
-Write your post here.
+Hey! You!
