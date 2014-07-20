@@ -16,7 +16,7 @@ import time
 # ! Option (b) is used for settings that are different in different languages.
 
 
-# Data about this site
+# Data about this lovely site
 BLOG_AUTHOR = "Your Lovely Name"  # (translatable)
 BLOG_TITLE = "Demo Site"  # (translatable)
 # This is the main URL for your site. It will be used
